@@ -1,6 +1,6 @@
 {
-  "version": "v8.30.54 (patches: 5.10.1)",
-  "versionCode": 32,
-  "zipUrl": "https://github.com/ankitpaudel20/revanced-magisk-module/releases/download/32/music-revanced-extended-magisk-v8.30.54-arm64-v8a.zip",
+  "version": "v8.30.54 (patches: 5.11.1)",
+  "versionCode": 36,
+  "zipUrl": "https://github.com/ankitpaudel20/revanced-magisk-module/releases/download/36/music-revanced-extended-magisk-v8.30.54-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/ankitpaudel20/revanced-magisk-module/update/build.md"
 }
